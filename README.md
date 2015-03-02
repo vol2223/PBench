@@ -5,7 +5,7 @@
 ```
 <?php
 
-use Vol2223\PBench;
+use Vol2223\PBench\PBench;
 
 $seed = 'makichanmakichan';
 
