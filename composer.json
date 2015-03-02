@@ -1,0 +1,15 @@
+{
+    "name": "vol2223/pbench",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vol2223",
+            "email": "volment2223+github@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vol2223\\PBench\\": "src/"
+        }
+    }
+}
